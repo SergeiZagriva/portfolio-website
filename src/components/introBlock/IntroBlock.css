@@ -5,13 +5,13 @@
 }
 
 .introBlock {
-    position: relative;  /* Makes it the anchor for positioning elements */
+    position: relative;  
     background-color: #433D8B;
     border-top-left-radius: 15px;
     border-bottom-left-radius: 15px;
-    max-width: 80%;  /* Maximum width of the block */
-    min-width: 500px;  /* Prevent the block from becoming too narrow */
-    width: 70%;  /* Flexible width */
+    max-width: 80%;  
+    min-width: 500px;  
+    width: 70%; 
     text-align: center;
     top: 3rem;
     margin-left: auto;
@@ -25,13 +25,13 @@
 }
 
 .introText {
-    width: 70%;  /* Allow text to fill the available space */
-    font-size: 32px;  /* Control font size directly */
+    width: 70%; 
+    font-size: 32px; 
     padding-right: 2rem;
-    word-wrap: break-word;  /* Allows long words to break if needed */
-    overflow-wrap: break-word; /* Prevent overflow by wrapping long words */
-    white-space: normal; /* Ensure text wraps within its container */
-    max-width: 100%; /* Ensure it doesn't overflow horizontally */
+    word-wrap: break-word;  
+    overflow-wrap: break-word; 
+    white-space: normal; 
+    max-width: 100%; 
     box-sizing: border-box;
 }
 
