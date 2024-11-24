@@ -1,0 +1,26 @@
+.navList {
+    display: inline-block;
+    padding-top: 3rem;
+    padding-left: 6rem;
+}
+
+.navItem {
+    display: inline;
+    padding-right: 4rem;
+    text-decoration: underline;
+    text-underline-offset: 0.3rem;
+    text-decoration-thickness: 0.2rem;
+    text-decoration-color: #C8AC;
+    font-size: 28px;
+}
+
+.navBar {
+    padding-bottom: 15rem;
+}
+
+.face {
+    position: absolute;
+    top: 7.3rem;
+    left: 50%;
+    z-index: 1;
+}
